@@ -1,25 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Daniel McDougall's Homepage
 
-You can use the [editor on GitHub](https://github.com/DanielMcDougall/DanielMcDougall.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a sophomore CS student at Boise State University. I'm originally from Portland, Oregon and I've been interested in computers and programming as long as I can remember. I enjoy anything sports, music, computers, and family. I hope to stay after college and find a job in Boise. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My programming experience
+I am currently finding open source projects to work on and things I can do within the Boise State community. Most of my experience is classes. I have multiple years of experience using Java. I am currently taking data structures, version control, systems programming, agile development, and microprocessors. 
 
-### Markdown
+## A short list of non-CS related classes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Technical Communications
+- Discrete Mathematics
+- Engineering Statistics
 
 **Bold** and _Italic_ and `Code` text
 
