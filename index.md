@@ -1,27 +1,22 @@
-## Welcome to Daniel McDougall's Homepage
+![Image](/Pictures/profheadshot.jpg)
+## A Short Introduction
 
 I am currently a sophomore CS student at Boise State University. I'm originally from Portland, Oregon and I've been interested in computers and programming as long as I can remember. I enjoy anything sports, music, computers, and family. I hope to stay after college and find a job in Boise. 
 
-### My programming experience
+## My programming experience
 I am currently finding open source projects to work on and things I can do within the Boise State community. Most of my experience is classes. I have multiple years of experience using Java. I am currently taking data structures, version control, systems programming, agile development, and microprocessors. 
 
-## A short list of non-CS related classes
+###  A short list of non-CS related classes
 
 - Technical Communications
 - Discrete Mathematics
 - Engineering Statistics
 
-**Bold** and _Italic_ and `Code` text
+### Job Experience
 
-[Link](url) and ![Image](src)
-```
+I am currently seeking an entry level internship for CS students. My prior job experience is unrelated to writing code, but provides a foundation of woring in teams and customer based products.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielMcDougall/DanielMcDougall.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Arctic Glacier Premium Ice
+    1. Summer of 2019: Worked with a team in factory environment with machinery; worked with customers 1 on 1 to fulfill orders.
+2. McDonald's 
+    2. Summer of 2018 and 2019: Worked with a team to take and proces orders as soon as possible. Strong basis for customer service.
