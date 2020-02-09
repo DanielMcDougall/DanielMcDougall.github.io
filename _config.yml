@@ -1,3 +1,10 @@
 theme: jekyll-theme-tactile
-title: Welcome to DanielMcDougall's homepage!
 description: Make sure to bookmark this page to keep up with regular updates
+title: Welcome to DanielMcDougall's homepage!
+# This is the first header
+__Bold text__
+## This is the second header
+* Item 1
+* Item 2
+* Item 3
+## This is the third header
