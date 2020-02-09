@@ -1,4 +1,4 @@
-![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/s960x960/75439345_10162534477565511_270651500210946048_o.jpg?_nc_cat=109&_nc_ohc=3TCmxswfeyUAX9YKTiV&_nc_ht=scontent-sea1-1.xx&oh=d22919126a1e4d2e27254c888f47855c&oe=5EC78174)
+![](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/s960x960/75439345_10162534477565511_270651500210946048_o.jpg?_nc_cat=109&_nc_ohc=3TCmxswfeyUAX9YKTiV&_nc_ht=scontent-sea1-1.xx&oh=d22919126a1e4d2e27254c888f47855c&oe=5EC78174 =250x250)
 ## A Short Introduction
 
 I am currently a sophomore CS student at Boise State University. I'm originally from Portland, Oregon and I've been interested in computers and programming as long as I can remember. I enjoy anything sports, music, computers, and family. I hope to stay after college and find a job in Boise. 
