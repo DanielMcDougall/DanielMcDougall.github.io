@@ -1,4 +1,4 @@
-![Image](/Users/dmcdo/Pictures/profheadshot.jpg)
+![](https://www.facebook.com/BoiseStateCareerServices/photos/a.10162534454405511/10162534477555511/?type=3&theater)
 ## A Short Introduction
 
 I am currently a sophomore CS student at Boise State University. I'm originally from Portland, Oregon and I've been interested in computers and programming as long as I can remember. I enjoy anything sports, music, computers, and family. I hope to stay after college and find a job in Boise. 
